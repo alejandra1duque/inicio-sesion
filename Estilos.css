@@ -1,0 +1,21 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    
+    
+}
+
+body{
+    width: 45%;
+    height: 350px;
+    margin: 19% auto;
+    background-color: #EBF3F7;
+    
+}
+
+.contenedor{
+    background-color: #0d0d0e13;
+    padding: 10px;
+    margin: 10px;
+}
+
